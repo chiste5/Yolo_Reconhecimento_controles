@@ -1,3 +1,3 @@
-#IA de Reconhecimento de Controles de Video Game
+## IA de Reconhecimento de Controles de Video Game
 
-## Esse programa é capaz de reconhecer se o controle trata-se de um controle de XBOX ou um controle de PS5.
+### Esse programa é capaz de reconhecer se o controle trata-se de um controle de XBOX ou um controle de PS5.

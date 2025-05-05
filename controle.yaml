@@ -1,0 +1,8 @@
+path: C:/Users/guich\Área de Trabalho/controles/datasets/controles
+train: images/train
+val: images/val
+
+nc: 2
+names:
+  0: PS5
+  1: XBOX
